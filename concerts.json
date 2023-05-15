@@ -1,0 +1,58 @@
+[
+    {
+        "id": "0509499a-d979-4410-b90c-083e49ce53c3",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "17d3d116-028e-481f-9918-03de9d42b0be",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "eb272f92-7b4f-44c1-ba04-25995a20b213",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "dd361aba-b0e5-454c-a0f9-7dc875480297",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "0509499a-d979-4410-b90c-083e49ce53c3",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "0509499a-d979-4410-b90c-083e49ce53c3",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-07",
+        "capacity": 250,
+        "status": "ACTIVE"
+    },
+    {
+        "id": "0509499a-d979-4410-b90c-083e49ce53c3",
+        "name": "The Beatles",
+        "venue": "The Gabba",
+        "date": "2023-06-17",
+        "capacity": 360,
+        "status": "ACTIVE"
+    }
+]
